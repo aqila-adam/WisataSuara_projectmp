@@ -1,0 +1,20 @@
+[
+  {
+    "id": "001",
+    "nama": "Candi Borobudur",
+    "sejarah": "Candi Borobudur adalah candi Buddha terbesar di dunia yang dibangun pada abad ke-9 pada masa wangsa Syailendra.",
+    "deskripsi_visual": "Candi ini memiliki bentuk punden berundak dengan banyak stupa berbentuk lonceng."
+  },
+  {
+    "id": "002",
+    "nama": "Lukisan Penangkapan Pangeran Diponegoro",
+    "sejarah": "Lukisan bersejarah karya Raden Saleh yang menggambarkan pengkhianatan Belanda terhadap Pangeran Diponegoro pada tahun 1830.",
+    "deskripsi_visual": "Lukisan menampilkan suasana tegang di mana Pangeran Diponegoro berdiri tegak di antara para perwira Belanda."
+  },
+  {
+    "id": "003",
+    "nama": "Keris Kyai Naga Siluman",
+    "sejarah": "Ini adalah keris pusaka milik Pangeran Diponegoro yang sempat hilang dan akhirnya dikembalikan oleh pemerintah Belanda ke Indonesia.",
+    "deskripsi_visual": "Keris dengan bilah berlekuk dan hulu berukiran naga berlapis emas."
+  }
+]
